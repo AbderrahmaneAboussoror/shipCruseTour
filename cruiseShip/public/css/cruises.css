@@ -1,0 +1,9 @@
+.bouton2{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    padding: 12px 34px;
+}
+.bouton2:hover{
+    color: black;
+    background: white;
+}

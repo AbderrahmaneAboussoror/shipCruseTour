@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bouton{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    font-weight: 600;
+}
+.bouton:hover{
+    color: black;
+    background: white;
+    font-weight: 700;
+    transition: 1s;
+}
+
+.prices, .discounts, .about{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.b1{
+    color: black;
+    border: 2px solid black;
+}
+.b1:hover{
+    color: white;
+    background: black;
+}
+
